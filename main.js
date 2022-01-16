@@ -18,4 +18,4 @@ if (dd < 10) {
     dd = '0' + dd;
 }
 
-document.write('', dd, '-', mm, '-', yyyy);
+document.write('<h1 style="color: aqua" ></h1>' + dd, '-', mm, '-', yyyy);
